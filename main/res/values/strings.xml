@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">10463321</string>
+    <string name="hint1">Number of Years</string>
+    <string name="hint2">Home Loan Amount</string>
+    <string name="hint3">Interest Rate</string>
+    <string name="btnPayment">Home Payment</string>
+    <string name="imgDescription">Number of Years Image</string>
+    <string name="txtPayment">Monthly Payment</string>
+    <string name="txtTitle">Home Mortgage </string>
+    <string name="imgYears">Number of years</string>
+</resources>
